@@ -1,6 +1,6 @@
 pandas==2.3.2
 pillow==11.3.0
-protobuf==5.32.1
+protobuf<=4.23.4
 pyarrow==21.0.0
 pydeck==0.9.1
 python-dateutil==2.9.0
@@ -9,7 +9,7 @@ referencing==0.36.2
 requests==2.32.3
 zipp==3.17.0
 six==1.17.0
-snmmp==5.0.2
+pysnmp==5.0.2         # replace snmmp with pysnmp
 streamlit==1.49.1
 tenacity==8.2.3
 tomli==0.10.2
