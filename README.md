@@ -19,12 +19,16 @@ Built with deep learning (CNNs) and deployed on a Streamlit prototype, this proj
 🚀 Quick Start
 
 Clone the repository and set up dependencies:
-
+```
 git clone https://github.com/akashcodes23/crop-disease-app.git
 cd crop-disease-app
+```
+```
 pip install -r requirements.txt
+```
+```
 streamlit run app/app.py
-
+```
 
 🛠️ Tech Stack
 
